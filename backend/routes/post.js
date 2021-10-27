@@ -6,6 +6,7 @@ const Post = mongoose.model("Post")
 
 router.get('/allpost',(req,res)=>{
     Post.find()
+    .sort("-createdAt")
 
     .then(posts=>{
         res.json({posts})
