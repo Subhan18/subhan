@@ -16,7 +16,7 @@ const Postview = () => {
             })
     })
     return (
-        data.map(item => {
+        data.reverse().map(item => {
             return (
                 
                 <div>
