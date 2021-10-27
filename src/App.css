@@ -1,0 +1,45 @@
+
+
+
+
+
+.cameraLink{
+align-items: flex-end;
+float: right;
+margin-top: -8px;
+margin-right: -950px;
+}
+
+
+
+
+.card{
+  border:1px solid black;
+}
+
+.card{
+  max-width: 500px;
+  height:max-content;
+  margin: 25px auto;
+  margin-left: 45%;
+  margin-top: 10%;
+}
+img.menu_more{
+  margin-top:-18px;
+} 
+
+
+.card .card-image img {
+  height:450px;
+}
+div.form_container{
+  margin-left: 220px;
+  margin-right: 600px;
+width:700px;
+height: 250px;
+}
+.home-card{
+  max-width: 500px;
+  height: max-content;
+  margin:26px auto;
+}
